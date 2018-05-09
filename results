@@ -1,0 +1,3 @@
+test3-> kmean=35%,knn=100%,kmean=60%,knn=75% for k=3(test file is same as training file)
+test4->kmean=35%,40%,knn=100% for k=1, 85% for k=3, 65% for k=5,55% for k=8 (frequency changed a little)
+test6->kmean=35%,60%,65%,knn=100 for k=1,85% for k=3,70% for k=5,55% for k=8 (little mix match of data)
